@@ -134,7 +134,7 @@ session_start();
                 <div class="container">
                     <div class="row p-5">
                         <div class="mx-auto col-md-8 col-lg-6 order-lg-last">
-                            <img class="img-fluid" src="./assetsDashboard/img/banner_img_01.jpg" alt="">
+                            <img class="img-fluid" src="./assetsDashboard/img/rfissa.jpg" alt="">
                         </div>
                         <div class="col-lg-6 mb-0 d-flex align-items-center">
                             <div class="text-align-left align-self-center">
@@ -152,7 +152,7 @@ session_start();
                 <div class="container">
                     <div class="row p-5">
                         <div class="mx-auto col-md-8 col-lg-6 order-lg-last">
-                            <img class="img-fluid" src="./assetsDashboard/img/banner_img_02.jpg" alt="">
+                            <img class="img-fluid" src="./assetsDashboard/img/pasta.webp" alt="">
                         </div>
                         <div class="col-lg-6 mb-0 d-flex align-items-center">
                             <div class="text-align-left">
@@ -171,7 +171,7 @@ This salad is a colorful and flavorful combination of cooked quinoa, chopped cuc
                 <div class="container">
                     <div class="row p-5">
                         <div class="mx-auto col-md-8 col-lg-6 order-lg-last">
-                            <img class="img-fluid" src="./assetsDashboard/img/banner_img_03.jpg" alt="">
+                            <img class="img-fluid" src="./assetsDashboard/img/couscous.webp" alt="">
                         </div>
                         <div class="col-lg-6 mb-0 d-flex align-items-center">
                             <div class="text-align-left">
@@ -208,17 +208,17 @@ A classic margarita is a refreshing and delicious cocktail made with tequila, li
         </div>
         <div class="row">
             <div class="col-12 col-md-4 p-5 mt-3">
-                <a href="#"><img src="./assetsDashboard/img/category_img_01.jpg" class="rounded-circle img-fluid border"></a>
+                <a href="#"><img src="./assetsDashboard/img/couscous.webp" class="rounded-circle img-fluid border"></a>
                 <h5 class="text-center mt-3 mb-3">Drinks</h5>
                 <p class="text-center"><a class="btn btn-success" href="drinks.php">Go Shop</a></p>
             </div>
             <div class="col-12 col-md-4 p-5 mt-3">
-                <a href="#"><img src="./assetsDashboard/img/category_img_02.jpg" class="rounded-circle img-fluid border"></a>
+                <a href="#"><img src="./assetsDashboard/img/rfissa.jpg" class="rounded-circle img-fluid border"></a>
                 <h2 class="h5 text-center mt-3 mb-3">Salades</h2>
                 <p class="text-center"><a class="btn btn-success" href="salades.php">Go Shop</a></p>
             </div>
             <div class="col-12 col-md-4 p-5 mt-3">
-                <a href="#"><img src="./assetsDashboard/img/category_img_03.jpg" class="rounded-circle img-fluid border"></a>
+                <a href="#"><img src="./assetsDashboard/img/pasta.webp" class="rounded-circle img-fluid border"></a>
                 <h2 class="h5 text-center mt-3 mb-3">Meals</h2>
                 <p class="text-center"><a class="btn btn-success" href="maindishes.php">Go Shop</a></p>
             </div>
@@ -243,7 +243,7 @@ A classic margarita is a refreshing and delicious cocktail made with tequila, li
             <div class="col-12 col-md-4 mb-4">
                     <div class="card h-100">
                         <a href="shop-single.html">
-                            <img src="./assetsDashboard/img/feature_prod_01.jpg" class="card-img-top" alt="...">
+                            <img src="./assetsDashboard/img/rfissa.webp" class="card-img-top" alt="...">
                         </a>
                         <div class="card-body">
                             <ul class="list-unstyled d-flex justify-content-between">
