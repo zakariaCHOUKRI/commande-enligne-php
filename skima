@@ -1,0 +1,5 @@
+user (uid: integer, fname: string not null, lname: string not null, email: string not null unique, password: string not null, isadmin: boolean default 0) primary key is uid
+dish (did: integer, dname: string not null, description: text not null, price: float not null) primary key is did
+order(oid: integer, did: integer, uid: integer) primary key is (oid, did, uid)
+order_status (oid: integer, status: enum(En attente, En cours de préparation, En cours de livraison, Livrée) not null) primary key is oid
+menu (did: integer not null, dname: string not null, description: text not null, price: float not null) primary key is did
