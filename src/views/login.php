@@ -1,3 +1,8 @@
+<?php
+    session_start();
+    require_once('../../db.php');
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -15,7 +20,7 @@
                         <h3 class="mb-0">Login</h3>
                     </div>
                     <div class="card-body">
-                        <form class="form" role="form" autocomplete="off" method="POST" action="login_process.php">
+                        <form class="form" role="form" autocomplete="off" method="POST" action="../controllers/LoginController.php">
                             <div class="form-group">
                                 <label for="email">Email</label>
                                 <input type="email" class="form-control form-control-lg rounded-0" name="email" id="email" required>
@@ -36,3 +41,24 @@
     </div>
 </body>
 </html>
+
+<?php
+
+if (isset($_GET["failed"])) {
+    if ($_GET["failed"] === 'false') {
+        echo "you are registered successfully";
+    } else {
+        echo "your information is incorrect";
+    }
+}
+
+
+
+?>
+
+
+<?php
+
+    $pdo = null;
+
+?>

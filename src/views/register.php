@@ -1,9 +1,6 @@
 <?php
     session_start();
-    if(!isset($_SESSION["username"])) {
-        header("Location: index.php");
-    }
-    require_once('db.php');
+    require_once('../../db.php');
 ?>
 
 <!DOCTYPE html>
@@ -23,7 +20,7 @@
                         <h3 class="mb-0">Register</h3>
                     </div>
                     <div class="card-body">
-                        <form class="form" role="form" autocomplete="off" method="POST" action="register_process.php">
+                        <form class="form" role="form" autocomplete="off" method="POST" action="../controllers/RegisterController.php">
                             <div class="form-group">
                                 <label for="first_name">First Name</label>
                                 <input type="text" class="form-control form-control-lg rounded-0" name="first_name" id="first_name" required>
