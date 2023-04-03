@@ -117,10 +117,9 @@ https://templatemo.com/tm-559-zay-shop
         <div class="container py-5">
             <div class="row text-center py-3">
                 <div class="col-lg-6 m-auto">
-                    <h1 class="h1">Featured Product</h1>
+                    <h1 class="h1">Drinks</h1>
                     <p>
-                        Reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-                        Excepteur sint occaecat cupidatat non proident.
+                        Here you can find the best drinks !
                     </p>
                 </div>
             </div>
@@ -139,13 +138,14 @@ https://templatemo.com/tm-559-zay-shop
                                     <i class="text-muted fa fa-star"></i>
                                     <i class="text-muted fa fa-star"></i>
                                 </li>
-                                <li class="text-muted text-right">$240.00</li>
+                                <li class="text-muted text-right">$15.00</li>
                             </ul>
-                            <a href="shop-single.html" class="h2 text-decoration-none text-dark">Gym Weight</a>
+                            <a href="shop-single.html" class="h2 text-decoration-none text-dark">Couscous</a>
                             <p class="card-text">
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt in culpa qui officia deserunt.
+                                Couscous sb3 khdari.
                             </p>
                             <p class="text-muted">Reviews (24)</p>
+                            <a href="add_to_cart.php?item=couscous"> <button class="mybtn">Add to cart</button> </a>
                         </div>
                     </div>
                 </div>
@@ -163,13 +163,14 @@ https://templatemo.com/tm-559-zay-shop
                                     <i class="text-muted fa fa-star"></i>
                                     <i class="text-muted fa fa-star"></i>
                                 </li>
-                                <li class="text-muted text-right">$480.00</li>
+                                <li class="text-muted text-right">$48.00</li>
                             </ul>
-                            <a href="shop-single.html" class="h2 text-decoration-none text-dark">Cloud Nike Shoes</a>
+                            <a href="shop-single.html" class="h2 text-decoration-none text-dark">Rfissa</a>
                             <p class="card-text">
-                                Aenean gravida dignissim finibus. Nullam ipsum diam, posuere vitae pharetra sed, commodo ullamcorper.
+                                Rfissa with msemmen and chicken.
                             </p>
                             <p class="text-muted">Reviews (48)</p>
+                            <a href="add_to_cart.php?item=rfissa"> <button class="mybtn">Add to cart</button> </a>
                         </div>
                     </div>
                 </div>
@@ -187,13 +188,15 @@ https://templatemo.com/tm-559-zay-shop
                                     <i class="text-warning fa fa-star"></i>
                                     <i class="text-warning fa fa-star"></i>
                                 </li>
-                                <li class="text-muted text-right">$360.00</li>
+                                <li class="text-muted text-right">$36.00</li>
                             </ul>
-                            <a href="shop-single.html" class="h2 text-decoration-none text-dark">Summer Addides Shoes</a>
+                            <a href="shop-single.html" class="h2 text-decoration-none text-dark">Pasta</a>
                             <p class="card-text">
-                                Curabitur ac mi sit amet diam luctus porta. Phasellus pulvinar sagittis diam, et scelerisque ipsum lobortis nec.
+                                Italian pasta dish.
                             </p>
                             <p class="text-muted">Reviews (74)</p>
+                            <a href="add_to_cart.php?item=pasta"> <button class="mybtn">Add to cart</button> </a>
+
                         </div>
                     </div>
                 </div>

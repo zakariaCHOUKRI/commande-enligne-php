@@ -145,7 +145,7 @@ https://templatemo.com/tm-559-zay-shop
                                 Couscous sb3 khdari.
                             </p>
                             <p class="text-muted">Reviews (24)</p>
-                            <button class="mybtn">Add to cart</button>
+                            <a href="add_to_cart.php?item=couscous"> <button class="mybtn">Add to cart</button> </a>
                         </div>
                     </div>
                 </div>
@@ -170,7 +170,7 @@ https://templatemo.com/tm-559-zay-shop
                                 Rfissa with msemmen and chicken.
                             </p>
                             <p class="text-muted">Reviews (48)</p>
-                            <button class="mybtn">Add to cart</button>
+                            <a href="add_to_cart.php?item=rfissa"> <button class="mybtn">Add to cart</button> </a>
                         </div>
                     </div>
                 </div>
@@ -195,7 +195,7 @@ https://templatemo.com/tm-559-zay-shop
                                 Italian pasta dish.
                             </p>
                             <p class="text-muted">Reviews (74)</p>
-                            <button class="mybtn">Add to cart</button>
+                            <a href="add_to_cart.php?item=pasta"> <button class="mybtn">Add to cart</button> </a>
 
                         </div>
                     </div>
