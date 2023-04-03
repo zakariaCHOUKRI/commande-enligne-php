@@ -21,8 +21,12 @@ CREATE TABLE dish (
 CREATE TABLE orders (
   oid INTEGER,
   did INTEGER,
-  uid INTEGER,
-  PRIMARY KEY (oid, did, uid)
+  PRIMARY KEY (oid, did)
+);
+
+CREATE TABLE order_user(
+  oid INTEGER PRIMARY KEY,
+  uid INTEGER
 );
 
 CREATE TABLE order_status (
