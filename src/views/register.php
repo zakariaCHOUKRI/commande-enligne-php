@@ -1,3 +1,11 @@
+<?php
+    session_start();
+    if(!isset($_SESSION["username"])) {
+        header("Location: index.php");
+    }
+    require_once('db.php');
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -44,3 +52,9 @@
     </div>
 </body>
 </html>
+
+<?php
+
+    $pdo = null;
+
+?>
